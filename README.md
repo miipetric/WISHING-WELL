@@ -4,8 +4,8 @@ The installation is designed as follows: a visitor approaches the fountain and w
 
 *Idea & concept: Marko Bolković, Igor Vasiljev
 
-*Production: Visualia Group
+*Production: Mia Petrić, Saša Idrizov, Mia Petrić
 
 *Sound: Igor Malić 
 
-*Light: Visualia Gruop 
+*Light: Mia Petrić, Saša Idrizov, Mia Petrić
